@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 1000;
+}
+
+body {
+    width: 100%;
+    background-image: url(../image/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+form {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+
+dl {
+  padding-bottom: 1em;
+  padding-top: 1em;
+  text-align: center;
+}
+
